@@ -4,6 +4,7 @@ class Program
 {
     static void Main()
     {
+        //Programa 2 de numero impar.
         // Solicitamos al usuario que ingrese un número entero positivo N mayor que cero
         Console.Write("Por favor ingrese un número entero positivo mayor que cero: ");
         int n = int.Parse(Console.ReadLine());
